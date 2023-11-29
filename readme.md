@@ -1,0 +1,1 @@
+We have achieve this task getting data from API's using fetch. For this we are using 2 api restcountries and openweather and displayed the data.
